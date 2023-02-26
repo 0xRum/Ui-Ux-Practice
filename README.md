@@ -1,6 +1,5 @@
 
-
-*FUNDAMENTALS LEARNED*
+!FUNDAMENTALS LEARNED!
 <ul>
   <li>React Functional components and their reusability
   <li>React file and folder structure</li>
